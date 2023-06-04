@@ -1,0 +1,4 @@
+pyp installer pyinstall
+
+pyinstall --onefile --noconsole main.py
+
